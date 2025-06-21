@@ -1,0 +1,16 @@
+{
+  "name": "virgolandia-web",
+  "version": "1.0.0",
+  "description": "Página web dedicada al servidor de Minecraft Virgolandia de Bruno.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "author": "Bruno",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
